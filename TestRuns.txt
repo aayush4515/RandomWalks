@@ -1,0 +1,232 @@
+TEST 01
+
+*** Random Walks ***
+
+This program generates a number of random walks.
+
+Enter number of points for each walk: 4
+
+Enter number of random walks to generate: 5
+
+
+Walk/Step: 1/1: Point: 48.19, 39.01 Distance: 62.00
+Walk/Step: 1/2: Point: 57.67, 22.55 Distance: 81.00
+Walk/Step: 1/3: Point: 132.54, 81.03 Distance: 176.00
+Walk/Step: 1/4: Point: 123.73, 93.17 Distance: 191.00
+
+Walk/Step: 2/1: Point: 215.81, 80.12 Distance: 284.00
+Walk/Step: 2/2: Point: 215.60, 92.11 Distance: 296.00
+Walk/Step: 2/3: Point: 258.62, 78.91 Distance: 341.00
+Walk/Step: 2/4: Point: 258.54, -13.09 Distance: 433.00
+
+Walk/Step: 3/1: Point: 262.53, -45.85 Distance: 466.00
+Walk/Step: 3/2: Point: 262.53, -45.85 Distance: 466.00
+Walk/Step: 3/3: Point: 322.65, -67.81 Distance: 530.00
+Walk/Step: 3/4: Point: 396.88, -40.79 Distance: 609.00
+
+Walk/Step: 4/1: Point: 411.51, -116.39 Distance: 686.00
+Walk/Step: 4/2: Point: 438.87, -97.94 Distance: 719.00
+Walk/Step: 4/3: Point: 418.49, -143.60 Distance: 769.00
+Walk/Step: 4/4: Point: 423.38, -214.43 Distance: 840.00
+
+Walk/Step: 5/1: Point: 458.03, -143.43 Distance: 919.00
+Walk/Step: 5/2: Point: 486.54, -94.08 Distance: 976.00
+Walk/Step: 5/3: Point: 500.13, -66.22 Distance: 1007.00
+Walk/Step: 5/4: Point: 501.25, -58.30 Distance: 1015.00
+
+Walks Sorted:
+
+Point: 123.73, 93.17 Distance: 191.00
+Point: 258.54, -13.09 Distance: 433.00
+Point: 396.88, -40.79 Distance: 609.00
+Point: 423.38, -214.43 Distance: 840.00
+Point: 501.25, -58.30 Distance: 1015.00
+
+Average Distance: 617.60
+
+Shortest Distance/Walk: 191.00
+Median Distance/Walk: 609.00
+Longest Distance/Walk: 1015.00
+
+\\elm-xa-file\CitrixFiles$\elmhurst\e0750442\Documents\CS318Code\CS318Projects\x64\Debug\P01318AcharyaA.exe (process 20372) exited with code 0.
+Press any key to close this window . . .
+
+
+TEST 02
+
+*** Random Walks ***
+
+This program generates a number of random walks.
+
+Enter number of points for each walk: 4
+
+Enter number of random walks to generate: 6
+
+
+Walk/Step: 1/1: Point: -57.85, 37.61 Distance: 69.00
+Walk/Step: 1/2: Point: -57.85, 37.61 Distance: 69.00
+Walk/Step: 1/3: Point: -72.18, 50.08 Distance: 88.00
+Walk/Step: 1/4: Point: -73.86, 48.99 Distance: 90.00
+
+Walk/Step: 2/1: Point: -43.76, 119.86 Distance: 167.00
+Walk/Step: 2/2: Point: -61.24, 71.95 Distance: 218.00
+Walk/Step: 2/3: Point: -43.91, 51.25 Distance: 245.00
+Walk/Step: 2/4: Point: -85.25, 39.43 Distance: 288.00
+
+Walk/Step: 3/1: Point: -146.02, 44.78 Distance: 349.00
+Walk/Step: 3/2: Point: -167.56, -35.37 Distance: 432.00
+Walk/Step: 3/3: Point: -151.02, -19.40 Distance: 455.00
+Walk/Step: 3/4: Point: -133.52, -9.71 Distance: 475.00
+
+Walk/Step: 4/1: Point: -112.14, 1.19 Distance: 499.00
+Walk/Step: 4/2: Point: -69.76, -25.35 Distance: 549.00
+Walk/Step: 4/3: Point: -151.31, -16.74 Distance: 631.00
+Walk/Step: 4/4: Point: -139.54, -77.61 Distance: 693.00
+
+Walk/Step: 5/1: Point: -86.36, -129.07 Distance: 767.00
+Walk/Step: 5/2: Point: -59.69, -124.84 Distance: 794.00
+Walk/Step: 5/3: Point: -87.07, -139.38 Distance: 825.00
+Walk/Step: 5/4: Point: -43.97, -179.66 Distance: 884.00
+
+Walk/Step: 6/1: Point: -24.27, -183.16 Distance: 904.00
+Walk/Step: 6/2: Point: -66.89, -212.95 Distance: 956.00
+Walk/Step: 6/3: Point: -55.90, -188.29 Distance: 983.00
+Walk/Step: 6/4: Point: -75.76, -190.72 Distance: 1003.00
+
+Walks Sorted:
+
+Point: -73.86, 48.99 Distance: 90.00
+Point: -85.25, 39.43 Distance: 288.00
+Point: -133.52, -9.71 Distance: 475.00
+Point: -139.54, -77.61 Distance: 693.00
+Point: -43.97, -179.66 Distance: 884.00
+Point: -75.76, -190.72 Distance: 1003.00
+
+Average Distance: 572.17
+
+Shortest Distance/Walk: 90.00
+Median Distance/Walk: 584.00
+Longest Distance/Walk: 1003.00
+
+\\elm-xa-file\CitrixFiles$\elmhurst\e0750442\Documents\CS318Code\CS318Projects\x64\Debug\P01318AcharyaA.exe (process 21976) exited with code 0.
+Press any key to close this window . . .
+
+
+TEST 03
+
+*** Random Walks ***
+
+This program generates a number of random walks.
+
+Enter number of points for each walk: 10
+
+Enter number of random walks to generate: 5
+
+
+Walk/Step: 1/1: Point: -39.51, -6.23 Distance: 40.00
+Walk/Step: 1/2: Point: -9.51, -22.23 Distance: 74.00
+Walk/Step: 1/3: Point: -0.56, -95.68 Distance: 148.00
+Walk/Step: 1/4: Point: 66.66, -111.28 Distance: 217.00
+Walk/Step: 1/5: Point: 60.43, -81.94 Distance: 247.00
+Walk/Step: 1/6: Point: 49.60, -67.56 Distance: 265.00
+Walk/Step: 1/7: Point: 119.09, -2.78 Distance: 360.00
+Walk/Step: 1/8: Point: 118.95, -3.77 Distance: 361.00
+Walk/Step: 1/9: Point: 114.45, -14.89 Distance: 373.00
+Walk/Step: 1/10: Point: 137.25, -94.70 Distance: 456.00
+
+Walk/Step: 2/1: Point: 139.08, -73.78 Distance: 477.00
+Walk/Step: 2/2: Point: 150.26, -58.41 Distance: 496.00
+Walk/Step: 2/3: Point: 137.62, 31.71 Distance: 587.00
+Walk/Step: 2/4: Point: 140.75, 39.08 Distance: 595.00
+Walk/Step: 2/5: Point: 140.75, 54.08 Distance: 610.00
+Walk/Step: 2/6: Point: 159.85, 73.16 Distance: 637.00
+Walk/Step: 2/7: Point: 187.01, 2.19 Distance: 713.00
+Walk/Step: 2/8: Point: 204.28, 18.86 Distance: 737.00
+Walk/Step: 2/9: Point: 206.34, 11.13 Distance: 745.00
+Walk/Step: 2/10: Point: 234.08, 79.73 Distance: 819.00
+
+Walk/Step: 3/1: Point: 292.72, 96.54 Distance: 880.00
+Walk/Step: 3/2: Point: 251.87, 92.99 Distance: 921.00
+Walk/Step: 3/3: Point: 233.01, 90.69 Distance: 940.00
+Walk/Step: 3/4: Point: 227.85, 113.10 Distance: 963.00
+Walk/Step: 3/5: Point: 225.87, 85.17 Distance: 991.00
+Walk/Step: 3/6: Point: 234.85, 33.95 Distance: 1043.00
+Walk/Step: 3/7: Point: 266.35, -30.79 Distance: 1115.00
+Walk/Step: 3/8: Point: 297.76, 9.39 Distance: 1166.00
+Walk/Step: 3/9: Point: 288.41, 53.41 Distance: 1211.00
+Walk/Step: 3/10: Point: 299.55, 98.04 Distance: 1257.00
+
+Walk/Step: 4/1: Point: 326.18, 106.69 Distance: 1285.00
+Walk/Step: 4/2: Point: 345.36, 98.13 Distance: 1306.00
+Walk/Step: 4/3: Point: 317.36, 98.64 Distance: 1334.00
+Walk/Step: 4/4: Point: 384.67, 28.79 Distance: 1431.00
+Walk/Step: 4/5: Point: 419.05, 60.84 Distance: 1478.00
+Walk/Step: 4/6: Point: 420.71, 66.61 Distance: 1484.00
+Walk/Step: 4/7: Point: 473.79, 5.42 Distance: 1565.00
+Walk/Step: 4/8: Point: 479.50, -77.38 Distance: 1648.00
+Walk/Step: 4/9: Point: 456.09, -51.36 Distance: 1683.00
+Walk/Step: 4/10: Point: 378.41, 11.61 Distance: 1783.00
+
+Walk/Step: 5/1: Point: 391.37, 103.70 Distance: 1876.00
+Walk/Step: 5/2: Point: 362.66, 107.75 Distance: 1905.00
+Walk/Step: 5/3: Point: 409.42, 64.05 Distance: 1969.00
+Walk/Step: 5/4: Point: 326.88, 30.77 Distance: 2058.00
+Walk/Step: 5/5: Point: 326.43, 28.82 Distance: 2060.00
+Walk/Step: 5/6: Point: 360.39, 58.34 Distance: 2105.00
+Walk/Step: 5/7: Point: 361.93, 80.29 Distance: 2127.00
+Walk/Step: 5/8: Point: 347.12, 82.64 Distance: 2142.00
+Walk/Step: 5/9: Point: 367.35, 97.33 Distance: 2167.00
+Walk/Step: 5/10: Point: 351.26, 78.19 Distance: 2192.00
+
+Walks Sorted:
+
+Point: 137.25, -94.70 Distance: 456.00
+Point: 234.08, 79.73 Distance: 819.00
+Point: 299.55, 98.04 Distance: 1257.00
+Point: 378.41, 11.61 Distance: 1783.00
+Point: 351.26, 78.19 Distance: 2192.00
+
+Average Distance: 1301.40
+
+Shortest Distance/Walk: 456.00
+Median Distance/Walk: 1257.00
+Longest Distance/Walk: 2192.00
+
+\\elm-xa-file\CitrixFiles$\elmhurst\e0750442\Documents\CS318Code\CS318Projects\x64\Debug\P01318AcharyaA.exe (process 17912) exited with code 0.
+Press any key to close this window . . .
+
+
+TEST 04
+
+*** Random Walks ***
+
+This program generates a number of random walks.
+
+Enter number of points for each walk: 2
+
+Enter number of random walks to generate: 3
+
+
+Walk/Step: 1/1: Point: -3.55, -16.63 Distance: 17.00
+Walk/Step: 1/2: Point: -2.49, -80.62 Distance: 81.00
+
+Walk/Step: 2/1: Point: -11.83, -50.01 Distance: 113.00
+Walk/Step: 2/2: Point: -102.93, -37.16 Distance: 205.00
+
+Walk/Step: 3/1: Point: -96.46, 36.56 Distance: 279.00
+Walk/Step: 3/2: Point: -101.81, 2.98 Distance: 313.00
+
+Walks Sorted:
+
+Point: -2.49, -80.62 Distance: 81.00
+Point: -102.93, -37.16 Distance: 205.00
+Point: -101.81, 2.98 Distance: 313.00
+
+Average Distance: 199.67
+
+Shortest Distance/Walk: 81.00
+Median Distance/Walk: 205.00
+Longest Distance/Walk: 313.00
+
+\\elm-xa-file\CitrixFiles$\elmhurst\e0750442\Documents\CS318Code\CS318Projects\x64\Debug\P01318AcharyaA.exe (process 3880) exited with code 0.
+Press any key to close this window . . .
